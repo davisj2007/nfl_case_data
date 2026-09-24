@@ -3,7 +3,7 @@
 Context Aware Scoring Expectation. A **descriptive** metric: what teams
 actually did, in context. Not a forecasting model.
 
-Currently released: **2026**, as of `2026-W02`.
+Seasons released: **2006–2026** (21 seasons). The current season is updated weekly; the latest release is `2026-W02`.
 
 ## What is here
 

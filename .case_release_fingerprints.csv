@@ -1,0 +1,8 @@
+file,md5
+README.md,902eb7057e8d8e094037f50511150a22
+CASE_CAVEATS.md,370b65dd7d4f27c2eada25d502d97f04
+CASE_DICTIONARY.md,4d205f2a64b38ad4538ca97efadfc305
+LICENSE.md,aa7e27d3f62e5f4506b023fe7f08b342
+examples/join_to_nflfastr.R,80ce2f94656823c470e118a874990c4b
+examples/weekly_table.R,79906e175addb1edbe51015ce37c06b0
+examples/game_path.R,6101f87b53cabc579fb755c820c1cd1a
